@@ -2,8 +2,6 @@
 
 I help design and build platforms that connect, automate, and scale. My focus is on practical solutions that bridge infrastructure, software, and data—making real-world systems reliable and maintainable.
 
----
-
 ## 🚀 Areas of Focus
 
 🛠️ **Platform Engineering & Automation**  
@@ -30,8 +28,6 @@ Enabling data-driven, real-time web applications
 ✅ **Test-Driven Development**  
 Keeping quality and maintainability at the core
 
----
-
 ## 🧰 Languages & Tools
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -45,8 +41,6 @@ Keeping quality and maintainability at the core
 ![OGC/GeoJSON](https://img.shields.io/badge/-OGC/GeoJSON-6E4E9E?style=flat-square)
 ![Hypermedia](https://img.shields.io/badge/-Hypermedia-FFB300?style=flat-square)
 ![SSE](https://img.shields.io/badge/-SSE-1E90FF?style=flat-square)
-
----
 
 ## 📫 Contact
 

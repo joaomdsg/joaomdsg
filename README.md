@@ -1,6 +1,4 @@
-# Joao Goncalves
-
-👨‍💻 IT Specialist & Software Engineer
+# Hey 👋
 
 I help design and build platforms that connect, automate, and scale. My focus is on practical solutions that bridge infrastructure, software, and data—making real-world systems reliable and maintainable.
 
